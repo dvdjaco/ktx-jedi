@@ -1,0 +1,32 @@
+{
+  "25689": {
+    "name": "Ahsoka Tano",
+    "planet": "Shili",
+    "power_level": 78
+  },
+  "32698": {
+    "name": "Shaak Ti",
+    "planet": "Shili",
+    "power_level": 79
+  },
+  "51234": {
+    "name": "Plo Koon",
+    "planet": "Dorina",
+    "power_level": 83
+  },
+  "74623": {
+    "name": "Luminara Unduli",
+    "planet": "Mirial",
+    "power_level": 77
+  },
+  "86420": {
+    "name": "Kit Fisto",
+    "planet": "Glee Anselm",
+    "power_level": 76
+  },
+  "93571": {
+    "name": "Ki-Adi-Mundi",
+    "planet": "Cerean",
+    "power_level": 81
+  }
+}

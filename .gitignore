@@ -1,0 +1,5 @@
+*.tfstate*
+*.zip
+.terraform*
+__pycache__
+debug
